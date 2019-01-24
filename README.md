@@ -1,4 +1,4 @@
-# baseMVC
-Ejemplo Base del Modelo-Vista-Controlador en Java
+# Java Electrocardiogram program with Arduino
 
-Puedes utilizar este código como base de la aplicación que vas a desarrollar.
+
+![](EasyCardio.gif)
